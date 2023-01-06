@@ -30,7 +30,7 @@ class VisitingCardApp extends StatelessWidget {
                     backgroundImage: AssetImage('images/avatar.png'),
                   ),
                   const Text(
-                    'Mark Zuberg',
+                    'Mark Zubergo',
                     style: TextStyle(
                       fontFamily: 'Pacifico',
                       fontSize: 40.0,
